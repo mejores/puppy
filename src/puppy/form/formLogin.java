@@ -20,7 +20,6 @@ public class formLogin {
 		placeComponents(panel);
 		frame.setVisible(true);
 	}
-	
 	private static void placeComponents(JPanel panel){
 		panel.setLayout(null);
 		JLabel userLabel=new JLabel("User:");
